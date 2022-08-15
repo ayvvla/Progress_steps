@@ -4,4 +4,4 @@ A simple progress step tracker
 
 ##screenshot:
 
-![screenshot](./pictures/image.jpg)
+![screenshot](./pictures/image.png)
